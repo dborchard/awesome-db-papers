@@ -16,3 +16,6 @@
 - [RACE - Extendable HashIndex](https://www.usenix.org/conference/atc21/presentation/zuo): Lock free remote CC, Pilaf Cuckoo Hashing
 
 
+## Misc Papers [Read]
+- [Elkan's Kmeans](https://cdn.aaai.org/ICML/2003/ICML03-022.pdf) - Fast `Kmeans` Algorithm using Triangle Inequality Property
+- [A method for implementing Lock-Free shared Data Structures](https://dl.acm.org/doi/pdf/10.1145/165231.165265) - Coordination Technique, Caching Algo
