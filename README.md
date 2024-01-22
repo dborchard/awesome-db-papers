@@ -1,15 +1,18 @@
 # Awesome DB Papers
 
-> These papers need to be revisited.
-> More read papers will be added when I get time.
+> ⚠️ More of my previously researched papers will be added to the list when I get time. These papers will need to be revisited by @arjunsk in the Paper Reading Group.
 
 ## Distributed Transaction Papers [Read]
+> "It is not that I'm so smart. But I stay with the questions much longer." - Albert Einstein
+
 - [Google Spanner Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - Distributed `Strict Serializable Transaction` using True Time
 - [Caliv - Dist Txn](https://www.cs.umd.edu/~abadi/papers/calvin-sigmod12.pdf) -  sequencing layer, scheduling layer, pre-determined order
 - [HLC eBay - Session Guarantees with Raft and HLC ‘19](https://arxiv.org/pdf/1808.05698.pdf) - Session Consistency
 - [Percolator - TiKV](https://tikv.org/deep-dive/distributed-transaction/percolator/) - 2PC, Ts oracle
 
 ## Disaggregated Shared Memory for Databases [Read]
+> "The best way to predict the future is to invent it." – Alan Kay
+
 - [PolarDB Serverless: BTree](https://users.cs.utah.edu/~lifeifei/papers/polardbserverless-sigmod21.pdf) - RDMA, PolarDB Txn Flow, Page Array
 - [FORD - Hash Index](https://www.usenix.org/conference/fast22/presentation/zhang-ming) - One Sided RDMA, Dist OCC Txn, HitchHiked Locking
 - [Sherman - BTree Index](https://arxiv.org/abs/2112.07320): HW features, Classic CC, XLOCK to resolve W-W conflict, Lock-free search with version to resolve R/W conflict
