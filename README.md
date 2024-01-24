@@ -1,6 +1,8 @@
 # Awesome DB Papers
 
-> ⚠️ More of my previously researched papers will be added to the list when I get time. These papers will need to be revisited by @arjunsk in the Paper Reading Group.
+> [!IMPORTANT]
+> More of my previously researched papers will be added to the list when I get time. These papers will need to be revisited by @arjunsk in the Paper Reading Group.
+
 
 ## Distributed Transaction Papers [Read]
 > "It is not that I'm so smart. But I stay with the questions much longer." - Albert Einstein
