@@ -1,6 +1,6 @@
 # Awesome DB Papers
 
-> [!IMPORTANT]
+> [!NOTE]
 > More of my previously researched papers will be added to the list when I get time. These papers will need to be revisited by @arjunsk in the Paper Reading Group.
 
 
